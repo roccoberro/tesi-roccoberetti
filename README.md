@@ -21,7 +21,7 @@ Questa repository contiene i fogli di calcolo, i dati grezzi, i modelli operativ
 - calcolo della saturazione di ciclo in funzione di ogni run.
 - calcolo efficienza termica al freno $\eta_{bth}$ per confronto fra le architetture.
 
-**file allegato-C: prezzi carburante (dati e fonti)**
+**file allegato-C: prezzi carburante (dati e fonti)** <br>
 *Dati gasolio estratti dal bollettino settimanale sul petrolio (weekly oil bulletin) della Commissione Europea.*
 - documento relativo ai prezzi della materia prima (gasolio) al **16-03-2026**.
 - doumento relativo alle accise (dato italiano aggiornato al **01-01-2026**).
@@ -34,9 +34,8 @@ Questa repository contiene i fogli di calcolo, i dati grezzi, i modelli operativ
 **Cartella `documentazione-europea`**
 - documenti relativi al piano REPowerEU.
 - documenti relativi al piano 'Fit for 55'.
-- regolamento 2024/1610: nuove normative in materia di prestazioni energetiche dei veicoli pesanti.
-
-**Cartella `idrogeno`**
+- regolamento 2024/1610: nuove normative in materia di prestazioni energetiche dei veicoli pesanti. <br>
+**Cartella `idrogeno`** <br>
 *Fonti bibliografiche utilizzate per la sintesi del costo attuale e atteso dell'idrogeno alla pompa.*
 - A hydrogen supply chain with spatial resolution: Comparative analysis of infrastructure technologies in Germany, Reuss,M.,et al. (2019).
 - A techno-economic analysis of cross-regional renewable hydrogen supply routes in China, Bai, F., et al. (2023).
