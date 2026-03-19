@@ -1,27 +1,31 @@
 # tesi-roccoberetti
-Contenuto della repository: 
-fogli di calcolo, dati grezzi, modelli di calcolo e risultati delle analisi in Design Expert.
-
-**file allegato-A1**: fogli di calcolo relativi all'analisi in steady-state.
+Questa repository contiene i fogli di calcolo, i dati grezzi, i modelli operativi e i risultati delle analisi in Design Expert a supporto della tesi di laurea.
+## 📂 contenuto della repository 
+### file allegato-A1: fogli di calcolo relativi all'analisi in steady-state.
 - calcolo coefficienti di prestazione e performance energetica.
 - calcolo parametri di valutazione in steady-state
 - calcolo valori medi attesi di potenza e BSFC per valutazione successive
 - calcolo consumi medi attesi per ciclo, necessari per la valutazione OPEX
    
-**file allegato-A2**: grafici relativi all'analisi in steady state.
+### file allegato-A2: grafici relativi all'analisi in steady state.
 - grafico comparativo dell'efficienza globale di ciclo fra le due architetture.
 - grafico comparativo della richiesta energetica divisa per profilo di missione.
 - grafico relativo all'evoluzione dei costi operativi orari. confronto attuale e futuro (previsione sui costi futuri basata sulla letteratura
   e sugli obiettivi del EU Green Deal)
 
-**file allegato-B**: fogli di calcolo e dati grezzi relativi all'analisi di sensitività.
-- calcolo del fattore di degradamento \alpha (colonna di appoggio non riportata).
+### file allegato-B: fogli di calcolo e dati grezzi relativi all'analisi di sensitività.
+- calcolo del fattore di degradamento $\alpha$ (colonna di appoggio non riportata).
 - progettazione delle 30 run di simulazione.
-- riempito matrice dati.
+- matrice dati completa.
 - calcolo della saturazione di ciclo in funzione di ogni run.
-- calcolo efficienza termica al freno \eta_{bth} per confronto fra le architetture.
+- calcolo efficienza termica al freno $\eta_{bth}$ per confronto fra le architetture.
 
-**file allegato-C**: documenti relativi ai prezzi del carburante, fonte European Commission. Datati 16-03-2026.
-- documento relativo ai prezzi della materia prima (gasolio) al 16-03-2026.
-- doumento relativo alle accise (dato italiano aggiornato al 01-01-2026).
-- documento relativo alla VAT (IVA). Le considerazioni del presente lavoro sono state fatte al netto di queste - ed eventuali altre - tasse.
+### file allegato-C1: prezzi carburante (dati e fonti)
+*Dati gasolio estratti dal bollettino settimanale sul petrolio (weekly oil bulletin) della Commissione Europea.*
+- documento relativo ai prezzi della materia prima (gasolio) al **16-03-2026**.
+- doumento relativo alle accise (dato italiano aggiornato al **01-01-2026**).
+- documento relativo alla VAT (IVA).
+> **Nota:** Tutte le considerazioni economiche (OPEX e Break-Even Point) affrontate nel presente lavoro sono state effettuate al netto dell'IVA e di altre tasse non strutturali.
+
+-----
+**📌 Nota per la consultazione:** Per una corretta visualizzazione delle formule matematiche, delle iterazioni e della formattazione grafica, si consiglia vivamente di scaricare i file `.xlsx` e aprirli nativamente tramite Microsoft Excel, anziché visualizzarli in anteprima dal browser.
