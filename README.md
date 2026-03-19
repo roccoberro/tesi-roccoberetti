@@ -35,6 +35,7 @@ Questa repository contiene i fogli di calcolo, i dati grezzi, i modelli operativ
 - documenti relativi al piano REPowerEU.
 - documenti relativi al piano 'Fit for 55'.
 - regolamento 2024/1610: nuove normative in materia di prestazioni energetiche dei veicoli pesanti.
+
 **Cartella `idrogeno`**
 *Fonti bibliografiche utilizzate per la sintesi del costo attuale e atteso dell'idrogeno alla pompa.*
 - A hydrogen supply chain with spatial resolution: Comparative analysis of infrastructure technologies in Germany, Reuss,M.,et al. (2019).
